@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.box{
+	width: 100%;
+	background: #fff;
+	padding: 50px;
+}
+
+.box_wrappear{
+	width: 960px;
+	margin: auto;
+}
+
+.box_header{
+	padding: 30px;
+}
+
+.box_header h2{
+	font-size: 30px;
+	text-align: center;
+	color: #333;
+}
+
+.box_cotent{
+	display: flex;
+	flex-wrap: wrap;	
+}
+
+.box_1{
+	width: 33.33%;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
